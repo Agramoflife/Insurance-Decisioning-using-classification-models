@@ -36,7 +36,7 @@ This repository contains multiple datasets related to life insurance application
 The project utilizes various technologies, including:
 
 - Programming languages: Python
-- Machine learning libraries: Scikit-learn, XGBoost, TensorFlow (optional)
+- Machine learning libraries: supervised machine learngin models 
 - Data analysis libraries: Pandas, NumPy
 - Visualization libraries: Matplotlib, Seaborn
 
